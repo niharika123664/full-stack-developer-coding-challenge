@@ -1,1 +1,0 @@
-This project automates the assignment of Secret Santa pairs for employees. It reads employee data and previous assignments from CSV files, assigns each employee a new secret child, ensuring no employee gets themselves or their previous year's secret child, and outputs the new assignments to a CSV file.
